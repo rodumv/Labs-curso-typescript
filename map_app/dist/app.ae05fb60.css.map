@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"app.ae05fb60.css","sourceRoot":"..","sourcesContent":["#map {\n  width: 90%;\n  height: 20rem;\n  border: 1px solid #ccc;\n  margin: 2rem auto;\n}\n\n.search {\n  text-align: center;\n  margin: 2rem auto;\n}\n"]}

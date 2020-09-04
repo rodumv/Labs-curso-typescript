@@ -1,0 +1,1 @@
+let vehiculo: 'automovil';
